@@ -1,3 +1,7 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
 /* works on banner */
 .top-banner {
     background-color: #161616;

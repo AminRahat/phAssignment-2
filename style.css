@@ -17,6 +17,12 @@
   padding-right: 10px;
 }
 
+.banner-text:hover{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: rgb(255, 145, 125);
+}
+
 .top-banner h1 {
   font-size: 70px;
   font-weight: 700;
@@ -118,7 +124,7 @@
 .second-part {
   display: flex;
   justify-content: flex-start;
-
+  margin: 30px;
 }
 
 .small-continer {
